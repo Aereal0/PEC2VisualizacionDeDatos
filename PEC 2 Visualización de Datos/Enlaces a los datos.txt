@@ -1,0 +1,3 @@
+https://www.ine.es/jaxiT3/Datos.htm?t=56936#_tabs-tabla
+https://www.kaggle.com/datasets/chaitanyajamble/grade-prediction-based-on-socioeconomic-factors/data
+https://datahub.io/football/spanish-la-liga
